@@ -60,14 +60,14 @@ s0.parentNode.insertBefore(s1,s0);
     <div class="hero container-fluid">
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-                <h1 class="hero-header animated fadeInUp" id="heroText">The ultimate host for your grandma's photo collection.</h1>
+                <h1 class="hero-header animated fadeInUp" id="heroText">The best hosting solution for your wallet.</h1>
                 <h5 class="hero-subtitle animated fadeInUp">Cloud computing. No limitations. No headaches.</h5>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 animated slideInRight">
                 <div class="card hero-card animated fadeIn">
                   <div class="card-body hero-card-body">
-                    <h1 class="hero-card-price">$15</h1>
-                    <h5 class="hero-card-per-month">per month</h5>
+                    <h1 class="hero-card-price">Starting at 3$ a month for cheap budgets</h1>
+                    <h5 class="hero-card-per-month">Starting at 20$ a month for gaming hosting</h5>
                     <div class="hero-card-button-wrapper">
                         <button type="button" class="btn hero-card-unbox-button" onclick="location.href = '/unbox';">Unbox</button>
                     </div>
